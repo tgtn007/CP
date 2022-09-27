@@ -1,5 +1,5 @@
 # CP
-## How optimize is your code ?
+## How optimized is your code ?
 <b> Show your Skills in DSA </b><br>
 Follow the guidelines :<br>
 <li>Upload in respective folder based on platform (CodeForces/CodeChef/LeetCode/AtCoder/Hackerearth/HackerRank...). If folder doesn't exist create New.</li>
