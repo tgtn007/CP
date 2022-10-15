@@ -1,0 +1,3 @@
+f = open("Day4.txt", 'r')
+variable = f.readline(1)
+print(variable)
